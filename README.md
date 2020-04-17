@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24676106-bd9b-4de8-8390-e526e2495ae4/deploy-status)](https://app.netlify.com/sites/belajarreactnative/deploys)
+
 # Website
 
 Belajar ReactNative dibuat dengan [Docusaurus 2](https://v2.docusaurus.io/)
